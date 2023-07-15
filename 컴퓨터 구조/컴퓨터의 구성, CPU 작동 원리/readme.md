@@ -7,7 +7,7 @@
 |---|---|
 |류병민| |
 |문형준| |
-|손세이| |
+|손세이| https://foil-grey-15c.notion.site/CPU-145caeca73ec45a7ac582d9544116edb?pvs=4|
 |이효정| |
 |인정환| |
 |채문희| |
