@@ -7,7 +7,7 @@
 |---|---|
 |류병민| |
 |문형준| |
-|손세이| [컴퓨터 구성, cpu 동작원리](https://foil-grey-15c.notion.site/CPU-145caeca73ec45a7ac582d9544116edb?pvs=4)|
+|손세이| [컴퓨터 구성, cpu 동작원리]([https://foil-grey-15c.notion.site/CPU-145caeca73ec45a7ac582d9544116edb?pvs=4](https://foil-grey-15c.notion.site/CS-5d16e6ac28fa40798ed9c87dd8a58ffd?pvs=4)https://foil-grey-15c.notion.site/CS-5d16e6ac28fa40798ed9c87dd8a58ffd?pvs=4)|
 |이효정| |
 |인정환| |
 |채문희| |
