@@ -1,6 +1,16 @@
-- [컴퓨터의 구성](https://github.com/CS-bbogaegi/cs_bbogaegi/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1%2C%20CPU%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
-- [중앙처리장치(CPU) 작동 원리](https://github.com/CS-bbogaegi/cs_bbogaegi/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1%2C%20CPU%EC%9E%91%EB%8F%99%20%EC%9B%90%EB%A6%AC.md)
-- [캐시 메모리](https://github.com/CS-bbogaegi/cs_bbogaegi/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0/%EC%BA%90%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC.md)
-- [고정 소수점 & 부동 소수점]
-- [패리티 비트 & 해밍 코드]
-- [ARM 프로세서](https://github.com/CS-bbogaegi/cs_bbogaegi/tree/main/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0)
+### 컴퓨터-구조
+|파트|진행상태|학습시간|강의내용|비고|
+| ------ | ------ | ------ | ------ | ------ |
+| | | | [강의 개요](컴퓨터-구조) | 권장 학습기간: `8주`, 학습분량: 주당 `5시간`|
+|1| :white_check_mark: |2| [컴퓨터-구조 개요](컴퓨터-구조/컴퓨터-구조-개요.md) | |
+|1| :white_large_square: |3| [3장 데이터의 표현](컴퓨터-구조/3장-데이터의-표현.md) | |
+|1| :white_large_square: |2| [4장 레지스터 전송과 마이크로 연산](컴퓨터-구조/4장-레지스터-전송과-마이크로-연산.md) | |
+|1| :white_large_square: |3| [5장 기본 컴퓨터의 구조와 설계-Part1](컴퓨터-구조/5장-기본-컴퓨터의-구조와-설계-Part1.md) | |
+|1| :white_large_square: |3| [5장 기본 컴퓨터의 구조와 설계-Part2](컴퓨터-구조/5장-기본-컴퓨터의-구조와-설계-Part2.md) | |
+|2| :white_large_square: |3| [6장 기본 컴퓨터 프로그래밍](컴퓨터-구조/6장-기본-컴퓨터-프로그래밍.md) | |
+|2| :white_large_square: |3| [7장 마이크로 프로그램](컴퓨터-구조/7장-마이크로-프로그램.md) | |
+|2| :white_large_square: |3| [8장 중앙 처리 장치](컴퓨터-구조/8장-중앙-처리-장치.md) | |
+|2| :white_large_square: |3| [9장 파이프라인과 벡터 처리](컴퓨터-구조/9장-파이프라인과-벡터-처리.md) | |
+|2| :white_large_square: |3| [10장 컴퓨터 산술 연산](컴퓨터-구조/10장-컴퓨터-산술-연산.md) | |
+|2| :white_large_square: |3| [11장 입출력 구조](컴퓨터-구조/11장-입출력-구조.md) | |
+|2| :white_large_square: |3| [12장 메모리 구조](컴퓨터-구조/12장-메모리-구조.md) | |
